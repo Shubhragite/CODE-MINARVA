@@ -200,10 +200,6 @@ python run_chatbot.py
 python generate_reports.py
 ```
 
-## Contributing
-
-We welcome contributions to this project! Please fork the repository and submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Authors
+- Shubhra Gite
+- Mihika Pathak
